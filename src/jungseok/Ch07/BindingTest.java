@@ -13,6 +13,7 @@ public class BindingTest {
         p.method();
         System.out.println("c.x = " + c.x);
         c.method();
+        System.out.println();
     }
 }
 
